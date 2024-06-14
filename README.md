@@ -1,5 +1,5 @@
-#  TESTE 2
+#  TESTE 2 - Git / GitHub
 
 # Nome: Danilo Gonçalo da Soledade
 # Idade: 36 Anos
-# Analista de TI
+# Cargo: Analista de TI
